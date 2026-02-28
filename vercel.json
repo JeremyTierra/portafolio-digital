@@ -1,4 +1,3 @@
 {
-  "rewrites": [{ "source": "/(.*)", "destination": "/" }],
-  "engines": { "node": "22.x" }
+  "rewrites": [{ "source": "/(.*)", "destination": "/" }]
 }
