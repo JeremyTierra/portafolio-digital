@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh api repos/JeremyTierra/JeremyTierra/contents/README.md --method PUT --input \"C:/Users/jerem/AppData/Local/Temp/payload.json\" --jq '.commit.sha')",
+      "Bash(node -e \":*)"
+    ]
+  }
+}
