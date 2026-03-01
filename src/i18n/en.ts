@@ -14,6 +14,7 @@ export const en = {
       'Specialized in Java/Spring Boot, Node.js, React and Flutter. I build scalable solutions following best practices with a strong focus on performance.',
     cta_github: 'View GitHub',
     cta_contact: 'Contact Me',
+    cta_cv: 'Download CV',
   },
   about: {
     title: 'About Me',
@@ -49,14 +50,6 @@ export const en = {
         location: 'Cuenca, Ecuador',
         description:
           'Built an appointment management platform for UDIPSAI (Diagnostic and Psychopedagogical Support Unit), optimizing care and evaluation processes for the institution.',
-      },
-      {
-        role: 'CNE Operator',
-        company: 'National Electoral Council of Ecuador',
-        period: 'Jun 2022 – Sep 2022',
-        location: 'Cuenca, Ecuador',
-        description:
-          'Digitization of documents related to payroll, payments and electoral resources, ensuring proper organization and efficient access.',
       },
     ],
   },

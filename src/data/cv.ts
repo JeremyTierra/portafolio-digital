@@ -1,6 +1,6 @@
 export const contact = {
   name: 'Jeremy Jesus Tierra Carvajal',
-  email: 'jeremycarvajal.2003@gmail.com',
+  email: 'jeremy.tierra.carvajal@gmail.com',
   phone: '+593 96 285 4399',
   location: 'Quito, Ecuador',
   github: 'https://github.com/JeremyTierra',

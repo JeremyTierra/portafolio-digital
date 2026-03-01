@@ -14,6 +14,7 @@ export const es = {
       'Especializado en Java/Spring Boot, Node.js, React y Flutter. Construyo soluciones escalables con buenas prácticas y enfoque en performance.',
     cta_github: 'Ver GitHub',
     cta_contact: 'Contactarme',
+    cta_cv: 'Descargar CV',
   },
   about: {
     title: 'Sobre mí',
@@ -49,14 +50,6 @@ export const es = {
         location: 'Cuenca, Ecuador',
         description:
           'Creación de una plataforma para la gestión de citas en la Unidad de Diagnóstico, Investigación Psicopedagógica y Apoyo a la Inclusión (UDIPSAI), optimizando los procesos de atención y evaluación psicopedagógica.',
-      },
-      {
-        role: 'Operador CNE',
-        company: 'Consejo Nacional Electoral del Ecuador',
-        period: 'Jun 2022 – Sep 2022',
-        location: 'Cuenca, Ecuador',
-        description:
-          'Digitalización de documentos relacionados con nóminas, pagos y recursos electorales, asegurando su correcta organización y acceso eficiente.',
       },
     ],
   },

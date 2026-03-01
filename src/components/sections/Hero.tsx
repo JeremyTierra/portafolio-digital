@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { Link } from 'react-scroll';
 import { SiGithub, SiLinkedin } from 'react-icons/si';
-import { HiArrowDown } from 'react-icons/hi';
+import { HiArrowDown, HiDownload } from 'react-icons/hi';
 import { useLang } from '../../context/LangContext';
 import { contact } from '../../data/cv';
 import { fadeUp } from '../../lib/motion';
@@ -107,6 +107,14 @@ export function Hero() {
           >
             {t.hero.cta_contact}
           </Link>
+          <a
+            href="/cv.pdf"
+            download
+            className="flex items-center gap-2 px-6 py-3 border border-[#334155] text-[#94a3b8] font-semibold rounded-lg hover:border-[#06b6d4] hover:text-[#06b6d4] transition-all duration-200"
+          >
+            <HiDownload size={18} />
+            {t.hero.cta_cv}
+          </a>
           <a
             href={contact.linkedin}
             target="_blank"
